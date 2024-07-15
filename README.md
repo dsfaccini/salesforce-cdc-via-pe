@@ -1,0 +1,4 @@
+- aiofstream is an unmaintained open source library the breaks with versions of python higher than 3.6
+- for productive use fork the project and use a self-hosted version as a dependency instead of hte public version
+  - this is a security measure
+- the Dockerfile provides an environment to run the subscription service using python 3.6
